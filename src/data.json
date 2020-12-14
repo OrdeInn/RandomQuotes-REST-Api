@@ -1,0 +1,31 @@
+
+{
+    "quotes": [
+        {
+            "id": 123123,
+            "username": "user1",
+            "quote": "user1-Lorem ipsum dolar sit amet",
+            "follows": [121212, 123456]
+        },
+        {
+            "id": 121212,
+            "username": "user2",
+            "quote": "user2-Lorem ipsum dolar sit amet",
+            "follows": [123123, 123412]
+        },
+        {
+            "id": 123412,
+            "username": "user3",
+            "quote": "user3-Lorem ipsum dolar sit amet",
+            "follows": [123456, 121212]
+        },
+        {
+            "id": 123456,
+            "username": "user4",
+            "quote": "user4-Lorem ipsum dolar sit amet",
+            "follows": []
+        }
+    ]
+}
+
+
